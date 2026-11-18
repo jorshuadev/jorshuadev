@@ -54,9 +54,3 @@ herramientas que se usan de verdad: apps web, apps móviles y automatizaciones q
 | **[Ñeques vs Gansos](https://github.com/jorshuadev/NVG)** · [jugar](https://jorshuadev.github.io/NVG/) | Tower defense para navegador | HTML · JavaScript |
 | **Campus** *(privado)* | Asistente universitario: horario, tareas, notas y Moodle; web local, CLI y app Android con sincronización | Python · Java · SQLite |
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorshuadev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" height="165" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorshuadev&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" height="165" alt="Lenguajes más usados" />
-</p>
