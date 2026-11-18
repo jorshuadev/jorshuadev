@@ -8,7 +8,7 @@ Estudiante de **Ingeniería de Software** en la Universidad Tecnológica de Pana
 herramientas que se usan de verdad: apps web, apps móviles y automatizaciones que ahorran tiempo.
 
 - 🔭 Ahora mismo: **Campus**, un asistente universitario con web local, CLI y app Android que se sincroniza sin nube.
-- 🌱 Aprendiendo: desarrollo de videojuegos (Unity y Godot) y arquitectura de apps móviles.
+- 🎮 Hago juegos en game jams con Unity y Godot.
 - 🎥 También enseño: tutoriales de programación en YouTube (*Clave Tutoriales*).
 - 🌐 Portafolio: **[portafolio-mocha-three.vercel.app](https://portafolio-mocha-three.vercel.app)**
 
@@ -48,6 +48,12 @@ herramientas que se usan de verdad: apps web, apps móviles y automatizaciones q
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
+| **[Explor](https://github.com/jorshuadev/Explor)** | Explorador de archivos para Windows: vista previa, columnas, galería y copias reanudables | C# · WPF · .NET 8 |
+| **[Tinta al límite](https://github.com/jorshuadev/tinta-al-limite)** · [jugar](https://jorshuadev.itch.io/tinta-al-limite) | Simulador de una imprenta de barrio en Panamá. #6 en Sistemas y Enganche (Game Gauntlet SIM Jam) | Godot 4 |
+| **[Andanza](https://github.com/jorshuadev/andanza)** · [jugar](https://jorshuadev.itch.io/andanza) | RPG de acción vertical con número de la suerte (Unity Game Jam 2026) | Unity · C# |
+| **[Teclas](https://github.com/jorshuadev/teclas)** | Launcher y teclado que convierten un celular táctil en uno con teclado QWERTY | Kotlin · Android |
+| **[Consola](https://github.com/jorshuadev/consola)** | Launcher estilo consola portátil para Android, con mando y apps ocultas con PIN | Kotlin · Android |
+| **[Reproductor](https://github.com/jorshuadev/reproductor)** | Reproductor ligero de música y video para tablets de gama baja | Kotlin · Media3 |
 | **[GameVault](https://github.com/jorshuadev/CoilStore)** · [demo](https://coil-store.vercel.app) | Plataforma para descubrir y compartir juegos gratuitos para Windows y Android | TypeScript · Next.js |
 | **[Portafolio](https://github.com/jorshuadev/Portafolio)** · [demo](https://portafolio-mocha-three.vercel.app) | Mi portafolio profesional | TypeScript · Next.js |
 | **[Android Link Manager](https://github.com/jorshuadev/Android-Link-Manager)** | Conecta, controla y gestiona un Android desde la PC por ADB | App de escritorio · ADB |
